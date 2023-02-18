@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd /tmp
-apt update -y && apt upgrade -y
+apt update --yes && apt upgrade --yes
 apt install apache2 -y
 apt install unzip -y
 wget https://github.com/denilsonbonatti/linux-site-dio/archive/refs/heads/main.zip

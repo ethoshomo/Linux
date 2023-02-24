@@ -1,0 +1,1 @@
+Não irei compartilhar o Projeto 3 porque usei uma estrutura diferente daquela usada no curso, afinal criei um SWARM a partir de três servidores locais.
